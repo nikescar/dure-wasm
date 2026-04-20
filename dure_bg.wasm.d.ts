@@ -1,0 +1,35 @@
+/* tslint:disable */
+/* eslint-disable */
+export const memory: WebAssembly.Memory;
+export const installOpfsSahpool: () => any;
+export const installRelaxedIdb: () => any;
+export const switchVfs: (a: number) => void;
+export const wasm_start: () => void;
+export const rust_sqlite_wasm_abort: () => void;
+export const rust_sqlite_wasm_assert_fail: (a: number, b: number, c: number, d: number) => void;
+export const rust_sqlite_wasm_calloc: (a: number, b: number) => number;
+export const rust_sqlite_wasm_malloc: (a: number) => number;
+export const rust_sqlite_wasm_free: (a: number) => void;
+export const rust_sqlite_wasm_getentropy: (a: number, b: number) => number;
+export const rust_sqlite_wasm_localtime: (a: number) => number;
+export const rust_sqlite_wasm_realloc: (a: number, b: number) => number;
+export const sqlite3_os_end: () => number;
+export const sqlite3_os_init: () => number;
+export const wasm_bindgen_917caac36d0c3e37___convert__closures_____invoke___wasm_bindgen_917caac36d0c3e37___JsValue__core_891b0a397fa42c18___result__Result_____wasm_bindgen_917caac36d0c3e37___JsError___true_: (a: number, b: number, c: any) => [number, number];
+export const wasm_bindgen_917caac36d0c3e37___convert__closures_____invoke___web_sys_e7424494beb80082___features__gen_IdbVersionChangeEvent__IdbVersionChangeEvent__core_891b0a397fa42c18___result__Result_____wasm_bindgen_917caac36d0c3e37___JsValue___true_: (a: number, b: number, c: any) => [number, number];
+export const wasm_bindgen_917caac36d0c3e37___convert__closures_____invoke___js_sys_bfaf020c9b92ca83___Function_fn_wasm_bindgen_917caac36d0c3e37___JsValue_____wasm_bindgen_917caac36d0c3e37___sys__Undefined___js_sys_bfaf020c9b92ca83___Function_fn_wasm_bindgen_917caac36d0c3e37___JsValue_____wasm_bindgen_917caac36d0c3e37___sys__Undefined_______true_: (a: number, b: number, c: any, d: any) => void;
+export const wasm_bindgen_917caac36d0c3e37___convert__closures_____invoke___js_sys_bfaf020c9b92ca83___Array______true_: (a: number, b: number, c: any) => void;
+export const wasm_bindgen_917caac36d0c3e37___convert__closures_____invoke___web_sys_e7424494beb80082___features__gen_Event__Event______true__1_: (a: number, b: number, c: any) => void;
+export const wasm_bindgen_917caac36d0c3e37___convert__closures_____invoke___web_sys_e7424494beb80082___features__gen_Event__Event______true_: (a: number, b: number, c: any) => void;
+export const wasm_bindgen_917caac36d0c3e37___convert__closures_____invoke___core_891b0a397fa42c18___result__Result_____wasm_bindgen_917caac36d0c3e37___JsValue___true_: (a: number, b: number) => [number, number];
+export const wasm_bindgen_917caac36d0c3e37___convert__closures_____invoke___bool__true_: (a: number, b: number) => number;
+export const wasm_bindgen_917caac36d0c3e37___convert__closures_____invoke_______true_: (a: number, b: number) => void;
+export const __wbindgen_malloc: (a: number, b: number) => number;
+export const __wbindgen_realloc: (a: number, b: number, c: number, d: number) => number;
+export const __wbindgen_exn_store: (a: number) => void;
+export const __externref_table_alloc: () => number;
+export const __wbindgen_externrefs: WebAssembly.Table;
+export const __wbindgen_free: (a: number, b: number, c: number) => void;
+export const __wbindgen_destroy_closure: (a: number, b: number) => void;
+export const __externref_table_dealloc: (a: number) => void;
+export const __wbindgen_start: () => void;
